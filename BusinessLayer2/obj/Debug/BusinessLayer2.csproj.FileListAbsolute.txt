@@ -1,0 +1,11 @@
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\bin\Debug\BusinessLayer2.dll
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\bin\Debug\BusinessLayer2.pdb
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\bin\Debug\DataLayer2.dll
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\bin\Debug\EntityLayer.dll
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\bin\Debug\DataLayer2.pdb
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\bin\Debug\EntityLayer.pdb
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\obj\Debug\BusinessLayer2.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\obj\Debug\BusinessLayer2.csproj.CopyComplete
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\obj\Debug\BusinessLayer2.dll
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\obj\Debug\BusinessLayer2.pdb
+C:\Users\Zehra\source\repos\DersKayitProjesi\BusinessLayer2\obj\Debug\BusinessLayer2.csprojAssemblyReference.cache

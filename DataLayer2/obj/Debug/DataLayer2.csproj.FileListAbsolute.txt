@@ -1,0 +1,9 @@
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\bin\Debug\DataLayer2.dll
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\bin\Debug\DataLayer2.pdb
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\bin\Debug\EntityLayer.dll
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\bin\Debug\EntityLayer.pdb
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\obj\Debug\DataLayer2.csprojAssemblyReference.cache
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\obj\Debug\DataLayer2.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\obj\Debug\DataLayer2.csproj.CopyComplete
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\obj\Debug\DataLayer2.dll
+C:\Users\Zehra\source\repos\DersKayitProjesi\DataLayer2\obj\Debug\DataLayer2.pdb
